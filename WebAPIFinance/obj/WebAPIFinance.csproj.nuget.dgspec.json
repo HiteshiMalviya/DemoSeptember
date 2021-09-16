@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Finance\\WebAPIFinance\\WebAPIFinance.csproj": {}
+    "E:\\LNT\\HiteshiRepoTry\\WebAPIFinance\\WebAPIFinance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Finance\\WebAPIFinance\\WebAPIFinance.csproj": {
+    "E:\\LNT\\HiteshiRepoTry\\WebAPIFinance\\WebAPIFinance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Finance\\WebAPIFinance\\WebAPIFinance.csproj",
+        "projectUniqueName": "E:\\LNT\\HiteshiRepoTry\\WebAPIFinance\\WebAPIFinance.csproj",
         "projectName": "WebAPIFinance",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Finance\\WebAPIFinance\\WebAPIFinance.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Finance\\WebAPIFinance\\obj\\",
+        "projectPath": "E:\\LNT\\HiteshiRepoTry\\WebAPIFinance\\WebAPIFinance.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\LNT\\HiteshiRepoTry\\WebAPIFinance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Finance\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj": {}
+    "E:\\LNT\\HiteshiRepoTry\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Finance\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj": {
+    "E:\\LNT\\HiteshiRepoTry\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Finance\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj",
+        "projectUniqueName": "E:\\LNT\\HiteshiRepoTry\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj",
         "projectName": "DataAccessLayerFinance",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Finance\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Finance\\DataAccessLayerFinance\\obj\\",
+        "projectPath": "E:\\LNT\\HiteshiRepoTry\\DataAccessLayerFinance\\DataAccessLayerFinance.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\LNT\\HiteshiRepoTry\\DataAccessLayerFinance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

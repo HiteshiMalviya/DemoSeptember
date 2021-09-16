@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Finance\\BusinessObjectsFinance\\BusinessObjectsFinance.csproj",
+      "projectUniqueName": "E:\\LNT\\HiteshiRepoTry\\BusinessObjectsFinance\\BusinessObjectsFinance.csproj",
       "projectName": "BusinessObjectsFinance",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\Finance\\BusinessObjectsFinance\\BusinessObjectsFinance.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\Finance\\BusinessObjectsFinance\\obj\\",
+      "projectPath": "E:\\LNT\\HiteshiRepoTry\\BusinessObjectsFinance\\BusinessObjectsFinance.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "E:\\LNT\\HiteshiRepoTry\\BusinessObjectsFinance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
